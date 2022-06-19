@@ -1,3 +1,7 @@
+Login details : 
+a@a.com;12345
+Database name : wp_db
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
